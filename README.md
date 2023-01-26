@@ -108,13 +108,13 @@ By considering above all the factors, I went with Apache NetBeans 12.4 as the ID
 
 **FIGURE 08: DASHBOARD WHEN ALL THE SEATS ARE SELECTED AT ONCE.** 
 
-![](Amedia/image09.jpeg)
+![](media/image09.jpeg)
 
 **FIGURE 09: BOOKING CONFIRMATION PAGE WHEN ALL THE SEATS ARE SELECTED AT ONCE.** 
 
 - When all the seats are booked, the “BOOK NOW” button will disable showing “SOLD.!”. 
 
-![](Amedia/image10.jpeg)
+![](media/image10.jpeg)
 
 **FIGURE 10: DASHBOARD WHEN ALL THE SEATS ARE BOOKED** 
 
